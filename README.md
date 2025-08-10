@@ -10,6 +10,9 @@ Test your memory by repeating an ever-growing sequence of colors and sounds.
 4. Each round, the sequence gets longer — keep going as long as you can!
 5. If you make a mistake, the game ends and you can restart by pressing any key.
 
+## 🖥 Live Demo
+Play it here: **[Simon Game on GitHub Pages](https://abdullahali785.github.io/simon-game/)**
+
 ## 🛠 Technologies Used
 - **HTML5** for structure  
 - **CSS3** for styling  
