@@ -19,3 +19,7 @@ Check out the playable version here: **[Play the Simon Game](https://abdullahali
 - **JavaScript (ES6)** for game logic  
 - **jQuery** for DOM manipulation and animations
 
+---
+
+## User View 
+![UI](UI.png)
